@@ -10,3 +10,15 @@ This is a small game from Python Crash Course 2nd with some extra enhancement.
 - Frame rate display
 - Single and auto shoot mode
 - Bullet limit and reloading time
+
+
+
+## Build
+
+- Install Python ( >= 3.7)
+
+  ```bash
+  $ python run_game.py
+  ```
+
+  
